@@ -65,7 +65,7 @@ export default function Login() {
           className="login-btn">
             <img
               alt=""
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2008px-Google_%22G%22_Logo.svg.png"
+              src={google}
             ></img>
             <p> Sign in with Google</p>
           </button>

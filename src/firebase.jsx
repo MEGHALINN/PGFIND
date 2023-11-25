@@ -9,14 +9,13 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyATcO7njXBAqpcgjWI2Ro03dnn86gmk6Y0",
-  authDomain: "pgfind-c98a9.firebaseapp.com",
-  projectId: "pgfind-c98a9",
-  storageBucket: "pgfind-c98a9.appspot.com",
-  messagingSenderId: "890904908193",
-  appId: "1:890904908193:web:13e910ebbed8c03fe73be0"
+  apiKey: "AIzaSyByrkNecKIpGd7q5swIgfysgBcdVhYRa0s",
+  authDomain: "nightscholar-bba3d.firebaseapp.com",
+  projectId: "nightscholar-bba3d",
+  storageBucket: "nightscholar-bba3d.appspot.com",
+  messagingSenderId: "998211092175",
+  appId: "1:998211092175:web:b8a4f4fa8aceac1f39c1ba"
 };
-
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);

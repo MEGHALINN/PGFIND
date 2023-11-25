@@ -9,13 +9,12 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBGwyDL2nd3pxWoYsztasUMLL1IsKn4CT0",
-  authDomain: "pgfind-f9d4d.firebaseapp.com",
-  projectId: "pgfind-f9d4d",
-  storageBucket: "pgfind-f9d4d.appspot.com",
-  messagingSenderId: "1016524575891",
-  appId: "1:1016524575891:web:3e2a6942b00e9c35376966",
-  measurementId: "G-P05552CQ4T"
+  apiKey: "AIzaSyATcO7njXBAqpcgjWI2Ro03dnn86gmk6Y0",
+  authDomain: "pgfind-c98a9.firebaseapp.com",
+  projectId: "pgfind-c98a9",
+  storageBucket: "pgfind-c98a9.appspot.com",
+  messagingSenderId: "890904908193",
+  appId: "1:890904908193:web:13e910ebbed8c03fe73be0"
 };
 
 // Initialize Firebase
